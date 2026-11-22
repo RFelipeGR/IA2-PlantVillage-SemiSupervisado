@@ -1,0 +1,16 @@
+modelo,clase,precision,recall,f1,soporte
+supervisado_25,Sana,0.975,0.975,0.975,40.0
+supervisado_25,Bacterial spot,1.0,0.95,0.9743589743589743,40.0
+supervisado_25,Early blight,0.9142857142857143,0.8,0.8533333333333334,40.0
+supervisado_25,Late blight,0.8444444444444444,0.95,0.8941176470588236,40.0
+supervisado_25,Mosaic virus,0.9523809523809523,1.0,0.975609756097561,40.0
+semi_supervisado_25,Sana,1.0,0.975,0.9873417721518988,40.0
+semi_supervisado_25,Bacterial spot,0.9743589743589743,0.95,0.9620253164556962,40.0
+semi_supervisado_25,Early blight,0.9024390243902439,0.925,0.9135802469135802,40.0
+semi_supervisado_25,Late blight,0.925,0.925,0.925,40.0
+semi_supervisado_25,Mosaic virus,0.975609756097561,1.0,0.9876543209876543,40.0
+supervisado_100,Sana,1.0,0.975,0.9873417721518988,40.0
+supervisado_100,Bacterial spot,1.0,0.975,0.9873417721518988,40.0
+supervisado_100,Early blight,0.95,0.95,0.95,40.0
+supervisado_100,Late blight,0.9523809523809523,1.0,0.975609756097561,40.0
+supervisado_100,Mosaic virus,1.0,1.0,1.0,40.0

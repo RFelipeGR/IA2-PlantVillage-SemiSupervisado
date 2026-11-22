@@ -1,0 +1,481 @@
+ruta_relativa,clase,label,leaf_id,particion
+raw/color/Tomato___healthy/5785f4a6-39d9-40d9-bf57-2d41ed94518b___GH_HL Leaf 309.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 309,train
+raw/color/Tomato___healthy/4f334ff5-0f0a-4d15-8760-448bebddd4f2___GH_HL Leaf 527.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 527,train
+raw/color/Tomato___healthy/24fe1921-3196-4125-8f96-d68edef32487___RS_HL 0109.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::27.0,train
+raw/color/Tomato___healthy/8140c767-937d-450c-8070-2936aeb73834___GH_HL Leaf 439.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 439.1,train
+raw/color/Tomato___healthy/38f54137-3e02-48fb-9fc1-0d444a13c40b___GH_HL Leaf 456.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 456,train
+raw/color/Tomato___healthy/f44c5128-2575-4fda-82c7-9954ead65027___GH_HL Leaf 384.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 384,train
+raw/color/Tomato___healthy/2b91175f-d3de-47dd-b386-5fd639e8b531___RS_HL 0216.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::54.0,train
+raw/color/Tomato___healthy/dd311971-e56c-4305-805e-a011ecebd38b___GH_HL Leaf 432.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 432,train
+raw/color/Tomato___healthy/9630e186-4b6c-492b-b450-a30bd7fd7fcb___GH_HL Leaf 322.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 322.1,train
+raw/color/Tomato___healthy/291a778d-bfbd-450e-98a8-d8276a9a5cf2___GH_HL Leaf 486.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 486.1,train
+raw/color/Tomato___healthy/956eb0b5-8dae-4315-9cea-320dc594b864___RS_HL 0221.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::55.0,train
+raw/color/Tomato___healthy/a261cf1c-0bf5-4dec-b796-5dfe2ab0ee1b___GH_HL Leaf 322.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 322,train
+raw/color/Tomato___healthy/bf2e072b-f57b-48ce-b155-f255bebd85a2___GH_HL Leaf 317.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 317,train
+raw/color/Tomato___healthy/918886d9-62bf-46a4-97f9-0afe76641b25___GH_HL Leaf 365.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 365.1,train
+raw/color/Tomato___healthy/d88b90c0-2850-425d-af82-7bfb0f6a9dd4___GH_HL Leaf 361.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 361,train
+raw/color/Tomato___healthy/45167988-3f78-4309-8ce2-633d7521847f___GH_HL Leaf 432.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 432.1,train
+raw/color/Tomato___healthy/851e1102-43d8-4bc7-8c41-28e5412b1863___RS_HL 9660.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::168.0,train
+raw/color/Tomato___healthy/2de3b39c-9fbd-4e94-b9e4-3f97dac9c34d___GH_HL Leaf 286.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 286.1,train
+raw/color/Tomato___healthy/0172e56c-8bb8-4e75-8ac7-509df81393e8___RS_HL 0580.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::144.0,train
+raw/color/Tomato___healthy/3b05e678-aa3c-47c6-9ebd-0650efd82b16___GH_HL Leaf 399.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 399,train
+raw/color/Tomato___healthy/e73a233d-84c8-407a-aefa-8a3865450351___GH_HL Leaf 222.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 222,train
+raw/color/Tomato___healthy/16ed4e23-5218-4e8b-85df-86a7069a675d___GH_HL Leaf 519.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 519.1,train
+raw/color/Tomato___healthy/fde29807-8223-4fc5-a06b-7cc93101a6d1___GH_HL Leaf 174.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 174,train
+raw/color/Tomato___healthy/ae17a302-03cb-48c7-aee2-6d9a859ce5dc___RS_HL 9811.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::206.0,train
+raw/color/Tomato___healthy/ac249839-fe21-45cd-9e09-f0023fa7ee3a___GH_HL Leaf 273.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 273,train
+raw/color/Tomato___healthy/89787310-40fb-4d46-9b4b-5f8426e26ccf___GH_HL Leaf 442.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 442.1,train
+raw/color/Tomato___healthy/170e86b9-f51d-49a6-a992-15e00c85ee5d___GH_HL Leaf 189.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 189,train
+raw/color/Tomato___healthy/0f809e80-ee2b-4ad4-9a80-50d789298d48___GH_HL Leaf 192.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 192,train
+raw/color/Tomato___healthy/381a69d2-9a7d-40e2-adcb-9d7e362229e2___GH_HL Leaf 478.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 478,train
+raw/color/Tomato___healthy/14768e0c-387d-40d2-96f9-031e0a45bed5___RS_HL 9667.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::170.0,train
+raw/color/Tomato___healthy/29d9f827-5e61-4b9b-acba-db0e7ce2016d___GH_HL Leaf 480.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 480,train
+raw/color/Tomato___healthy/2a089ff8-0fcf-4b18-b746-f997e3b18065___GH_HL Leaf 456.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 456.1,train
+raw/color/Tomato___healthy/668e811e-7b65-404e-9bc5-6519efb1c708___RS_HL 0160.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::40.0,train
+raw/color/Tomato___healthy/b4f405ee-4471-4af5-b0c1-a4bc2aed730e___GH_HL Leaf 358.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 358.1,train
+raw/color/Tomato___healthy/fad6841f-6194-4cf4-8101-b42206bd476c___RS_HL 0411.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::103.0,train
+raw/color/Tomato___healthy/22c48f3b-b49d-48b1-977e-e81d47c0f951___RS_HL 0369.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::92.0,train
+raw/color/Tomato___healthy/505465db-407b-4e0a-8110-7479dad5261c___GH_HL Leaf 389.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 389,train
+raw/color/Tomato___healthy/e1860bf2-2656-4dba-b9de-f80932bca552___RS_HL 0398.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::99.0,train
+raw/color/Tomato___healthy/bd4111eb-69bf-44b7-b02c-13477b5dc8e1___GH_HL Leaf 357.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 357,train
+raw/color/Tomato___healthy/fb2c7e00-39a7-4be3-b8d1-b4c42c65e20e___RS_HL 9636.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::162.0,train
+raw/color/Tomato___healthy/2bce59d3-c971-46da-8bb5-bc36b712e208___GH_HL Leaf 257.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 257,train
+raw/color/Tomato___healthy/ef55e589-0ad8-4602-be35-e0ee6aa33b8a___GH_HL Leaf 300.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 300,train
+raw/color/Tomato___healthy/c3dcca18-f12f-4a4d-a90c-563ded6c7df8___RS_HL 9691.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::176.0,train
+raw/color/Tomato___healthy/db9db9c3-42af-4609-a30e-48e4797174c7___GH_HL Leaf 182.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 182,train
+raw/color/Tomato___healthy/14f9c049-aeb8-4cfb-84a7-cd39526b8b20___RS_HL 0534.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::133.0,train
+raw/color/Tomato___healthy/162db449-3361-40fa-a9bf-42bb63d43781___RS_HL 9647.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::165.0,train
+raw/color/Tomato___healthy/2a1dd125-ece3-499f-a24b-1d00dbcc3184___GH_HL Leaf 227.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 227,train
+raw/color/Tomato___healthy/7864a688-3ee0-4ddc-83e8-6edb177dd6bf___GH_HL Leaf 193.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 193.1,train
+raw/color/Tomato___healthy/5bded339-547a-4f93-b7cf-bbf8c948aa26___RS_HL 9748.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::190.0,train
+raw/color/Tomato___healthy/68955a6d-9454-49ba-8924-a5ed69dcd820___GH_HL Leaf 276.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 276,train
+raw/color/Tomato___healthy/fe28e4c7-0c35-4f52-984e-0e60f33a2c6e___GH_HL Leaf 198.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 198,train
+raw/color/Tomato___healthy/1a0c4408-634e-4bd5-948d-e73ca5572976___RS_HL 0146.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::36.0,train
+raw/color/Tomato___healthy/7a73a7f9-27e3-4898-be48-97ddcaa094a4___GH_HL Leaf 381.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 381,train
+raw/color/Tomato___healthy/fd2fa9cc-2147-40ff-9e71-0056eb7884ed___GH_HL Leaf 285.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 285,train
+raw/color/Tomato___healthy/c7cedd2f-dfae-4232-9cab-d75197d48948___GH_HL Leaf 226.6.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 226.6,train
+raw/color/Tomato___healthy/2a859068-5042-4f74-82ac-29339c760cbb___GH_HL Leaf 436.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 436,train
+raw/color/Tomato___healthy/99fcb52b-0e4f-47a6-b350-1d49d26bc649___GH_HL Leaf 298.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 298,train
+raw/color/Tomato___healthy/8accf0ce-a43d-449c-86fb-e327fb6ab2c9___GH_HL Leaf 241.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 241,train
+raw/color/Tomato___healthy/2f07c3a8-90db-4d61-b8e3-55b3c016c510___GH_HL Leaf 382.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 382.1,train
+raw/color/Tomato___healthy/196e5fd8-8b4e-4a45-9db7-ae59c877e9a7___GH_HL Leaf 284.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 284,train
+raw/color/Tomato___healthy/6e3fca10-be50-4074-ada4-3122e864d4e0___GH_HL Leaf 294.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 294.1,train
+raw/color/Tomato___healthy/3247a6d7-a473-414f-af51-2d8de917ee82___RS_HL 9622.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::159.0,train
+raw/color/Tomato___healthy/8e117b61-5360-49c8-aa55-4e90f8fae129___GH_HL Leaf 261.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 261,train
+raw/color/Tomato___healthy/81024038-40ff-40c4-b8f4-4a48b08032e4___RS_HL 0301.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::75.0,train
+raw/color/Tomato___healthy/3ea001ac-b49b-4382-a95d-a602fba00a5a___GH_HL Leaf 445.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 445,train
+raw/color/Tomato___healthy/a54804c7-1bc2-439a-a09f-3d1a6ce81856___GH_HL Leaf 309.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 309.1,train
+raw/color/Tomato___healthy/a154b0c0-ad46-47ec-b9f4-50a4ee625849___RS_HL 9827.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::210.0,train
+raw/color/Tomato___healthy/000146ff-92a4-4db6-90ad-8fce2ae4fddd___GH_HL Leaf 259.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 259.1,train
+raw/color/Tomato___healthy/53471454-9f9a-4182-91a3-c2c6c1268c56___RS_HL 0209.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::52.0,train
+raw/color/Tomato___healthy/39976b35-40e7-4426-b21d-a8bfe1ce0a01___GH_HL Leaf 450.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 450,train
+raw/color/Tomato___healthy/f433b7ce-cddb-4f22-8b0f-2376789c45f1___GH_HL Leaf 337.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 337,train
+raw/color/Tomato___healthy/ca9e9564-bf57-4e2e-837f-a847db99a316___GH_HL Leaf 401.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 401,train
+raw/color/Tomato___healthy/e2869c8b-aedf-4074-bb99-28e6ed2b4223___RS_HL 9673.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::171.0,train
+raw/color/Tomato___healthy/d5633146-eac5-49e6-a6b4-8562aa7d1a1f___GH_HL Leaf 283.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 283.1,train
+raw/color/Tomato___healthy/eab401a8-c014-4a63-98d4-b6144cfc7bc9___GH_HL Leaf 289.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 289,train
+raw/color/Tomato___healthy/b632d565-2883-4d01-a994-2068433bac08___RS_HL 9843.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::214.0,train
+raw/color/Tomato___healthy/347987eb-9aee-49c7-a8c9-346d18ee7227___GH_HL Leaf 229.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 229.1,train
+raw/color/Tomato___healthy/9f1704fc-28ae-4e27-a6f3-885811ea80e2___GH_HL Leaf 260.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 260,train
+raw/color/Tomato___healthy/fcfb486e-63dc-405c-8a17-0551e5f76959___RS_HL 9663.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::169.0,train
+raw/color/Tomato___healthy/4463e5e9-8afc-4dfd-9317-3013a538f2c8___GH_HL Leaf 308.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 308,train
+raw/color/Tomato___healthy/729ddd12-6c56-4f8d-bf95-ce3a066c9f29___GH_HL Leaf 188.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 188,train
+raw/color/Tomato___healthy/ff354b62-5981-43d1-8cfe-ac58bc20ca20___GH_HL Leaf 221.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 221,train
+raw/color/Tomato___healthy/4255f30c-f233-4706-9334-bc3c0d09d63d___GH_HL Leaf 372.2.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 372.2,train
+raw/color/Tomato___healthy/69a348e0-b426-42bd-ba09-a8bb067430e5___RS_HL 0016.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::4.0,train
+raw/color/Tomato___healthy/4b8f6f0d-ed84-49ae-a92e-6cf049a42207___RS_HL 9652.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::166.0,train
+raw/color/Tomato___healthy/2d4db3f7-a768-4a27-832c-fc72496e79b4___GH_HL Leaf 446.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 446,train
+raw/color/Tomato___healthy/591c89ff-a75f-4613-b06d-4f3fbf6c426c___GH_HL Leaf 435.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 435,train
+raw/color/Tomato___healthy/31e077d4-97f5-4e4c-8b76-e2ccbf52ed2d___RS_HL 0460.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::115.0,train
+raw/color/Tomato___healthy/bcf2a4c7-5e73-4443-b39c-74fd6895afb5___GH_HL Leaf 248.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 248.1,train
+raw/color/Tomato___healthy/065cd824-d515-49f6-a68a-c1b6dd313472___RS_HL 0139.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::35.0,train
+raw/color/Tomato___healthy/b6fa2d79-dac1-42c6-a074-9d013843bb11___GH_HL Leaf 276.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 276.1,train
+raw/color/Tomato___healthy/98f3de1f-2505-4e4b-94ad-fb16f66f27d8___RS_HL 9852.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::216.0,train
+raw/color/Tomato___healthy/9a5d3900-8707-4088-8ec0-1fad45d8bd11___GH_HL Leaf 339.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 339,train
+raw/color/Tomato___healthy/164d5472-31c5-4145-b30a-93198436539d___RS_HL 0103.JPG,Tomato___healthy,0,Tomato___healthy::Tomato___healthy:::26.0,train
+raw/color/Tomato___healthy/4ce6844e-2a92-47aa-9115-0eb1a9a0611c___GH_HL Leaf 464.1.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 464.1,train
+raw/color/Tomato___healthy/e6fdaad9-b536-46c3-a819-faf414cfbf47___GH_HL Leaf 500.2.JPG,Tomato___healthy,0,Tomato___healthy::fallback_GH_HL Leaf 500.2,train
+raw/color/Tomato___Bacterial_spot/4ceb9395-b11a-4290-bfc4-db6afe8ad21e___UF.GRC_BS_Lab Leaf 0806.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::481.0,train
+raw/color/Tomato___Bacterial_spot/2a4a8942-9d1d-4989-a58b-a02f1cc2256a___GCREC_Bact.Sp 2970.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::7.0,train
+raw/color/Tomato___Bacterial_spot/c8393f84-d1e1-4165-ae4e-eaa196db9523___GCREC_Bact.Sp 3404.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::115.0,train
+raw/color/Tomato___Bacterial_spot/c3fbdba4-a285-463b-a3fd-26d0d4a4d936___GCREC_Bact.Sp 3677.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::183.0,train
+raw/color/Tomato___Bacterial_spot/6ab6800f-13bf-4956-858c-f25c1d43fd9a___GCREC_Bact.Sp 3419.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::119.0,train
+raw/color/Tomato___Bacterial_spot/9886ea69-5a4e-4fa4-9e41-e9f65884ba9e___GCREC_Bact.Sp 3199.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::64.0,train
+raw/color/Tomato___Bacterial_spot/d5c25507-51c8-4565-9c4f-2e991cf83721___GCREC_Bact.Sp 6112.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::370.0,train
+raw/color/Tomato___Bacterial_spot/aaa27c3b-ff24-4d91-9c0c-fe68862ab77e___GCREC_Bact.Sp 3616.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::168.0,train
+raw/color/Tomato___Bacterial_spot/aaa4e010-ef65-4513-af1c-be9fb857fe5d___GCREC_Bact.Sp 5895.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::316.0,train
+raw/color/Tomato___Bacterial_spot/3dde2c0b-a6d1-49f7-bcdc-3a615ea9d0c0___GCREC_Bact.Sp 5731.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::276.0,train
+raw/color/Tomato___Bacterial_spot/c1ca97a3-0701-4d1b-ab77-0a1d018d7886___GCREC_Bact.Sp 5609.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::245.0,train
+raw/color/Tomato___Bacterial_spot/645095d4-fe92-4759-8b40-1a7c13b2e02e___GCREC_Bact.Sp 3219.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::69.0,train
+raw/color/Tomato___Bacterial_spot/fb565b6a-8b9b-4f84-8436-b593df56c452___GCREC_Bact.Sp 5863.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::308.0,train
+raw/color/Tomato___Bacterial_spot/46d649c2-01cc-4716-8907-10ca3036c255___UF.GRC_BS_Lab Leaf 8868.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::509.0,train
+raw/color/Tomato___Bacterial_spot/f2ea99a2-3e21-45ff-adf0-b7cfdd955d68___GCREC_Bact.Sp 5959.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::332.0,train
+raw/color/Tomato___Bacterial_spot/177b8ce1-d77a-41d7-93ac-852d37d69faa___GCREC_Bact.Sp 3390.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::112.0,train
+raw/color/Tomato___Bacterial_spot/32d7007e-5830-4675-8e03-06b60287652f___GCREC_Bact.Sp 3344.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::100.0,train
+raw/color/Tomato___Bacterial_spot/1371d8ed-b95f-4dd0-834c-9f3a944ca8dd___GCREC_Bact.Sp 3463.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::130.0,train
+raw/color/Tomato___Bacterial_spot/cc2e453a-3331-4385-baab-e0935661bba4___GCREC_Bact.Sp 3590.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::161.0,train
+raw/color/Tomato___Bacterial_spot/2dce98fb-99da-4f38-8ade-2a9c2dfe6599___GCREC_Bact.Sp 3482.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::134.0,train
+raw/color/Tomato___Bacterial_spot/2fd91512-745b-410f-b57f-a5a5dc0573b9___GCREC_Bact.Sp 3171.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::57.0,train
+raw/color/Tomato___Bacterial_spot/a85dac1e-5549-457d-acda-e776d340f980___GCREC_Bact.Sp 3693.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::187.0,train
+raw/color/Tomato___Bacterial_spot/1b3ccbf3-c1e1-476e-b34a-6af0a6fbb349___GCREC_Bact.Sp 3735.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::197.0,train
+raw/color/Tomato___Bacterial_spot/fa0a336a-ddda-4571-9fad-d0331280640a___GCREC_Bact.Sp 3845.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::224.0,train
+raw/color/Tomato___Bacterial_spot/8ba984dc-b9f0-4367-8a27-8486ceacf09a___GCREC_Bact.Sp 3225.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::70.0,train
+raw/color/Tomato___Bacterial_spot/84bbafd6-7a7a-496d-81b9-e406c6c97281___GCREC_Bact.Sp 6147.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::379.0,train
+raw/color/Tomato___Bacterial_spot/acd63ad6-8420-495d-8a3b-961fc5c98052___GCREC_Bact.Sp 2994.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::13.0,train
+raw/color/Tomato___Bacterial_spot/f2862b49-bab8-4d3e-abc3-0816c0f0010e___GCREC_Bact.Sp 6311.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::419.0,train
+raw/color/Tomato___Bacterial_spot/6a309da1-f8f4-404f-afb3-f07482a19282___UF.GRC_BS_Lab Leaf 9049.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::518.0,train
+raw/color/Tomato___Bacterial_spot/7e2d95d8-61e7-4b3f-8425-a6bfd53e8490___UF.GRC_BS_Lab Leaf 0402.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::460.0,train
+raw/color/Tomato___Bacterial_spot/90fb6585-1316-4fa1-ab9c-6a1873e050b5___GCREC_Bact.Sp 3208.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::66.0,train
+raw/color/Tomato___Bacterial_spot/86ea5fc3-b719-46a9-bee2-66eb0b3a217a___GCREC_Bact.Sp 5833.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::301.0,train
+raw/color/Tomato___Bacterial_spot/7c46d515-2090-4371-a5c2-0af04544b5e6___GCREC_Bact.Sp 3513.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::142.0,train
+raw/color/Tomato___Bacterial_spot/5a87c2e4-220b-4985-8dd7-8726c727467b___GCREC_Bact.Sp 3564.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::155.0,train
+raw/color/Tomato___Bacterial_spot/970fcaf8-57a8-4219-810b-291ef0283e7a___UF.GRC_BS_Lab Leaf 9285.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::530.0,train
+raw/color/Tomato___Bacterial_spot/f8efccbd-9721-4291-a095-9fb29527bbc4___UF.GRC_BS_Lab Leaf 0235.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::443.0,train
+raw/color/Tomato___Bacterial_spot/bd214fe7-7ed1-428e-ac09-c3ee84a9ba24___GCREC_Bact.Sp 5699.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::268.0,train
+raw/color/Tomato___Bacterial_spot/c693b071-ccf9-40e9-97f9-341c2da3c5b1___GCREC_Bact.Sp 3751.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::201.0,train
+raw/color/Tomato___Bacterial_spot/d437fbb3-cfb7-4a81-b6b7-36bca6748f02___GCREC_Bact.Sp 3454.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::128.0,train
+raw/color/Tomato___Bacterial_spot/f1164b16-0b05-413e-be8d-79d85901e34b___GCREC_Bact.Sp 3443.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::125.0,train
+raw/color/Tomato___Bacterial_spot/c0a49d4f-501c-4a5f-a7cd-6164d1bddb45___GCREC_Bact.Sp 6157.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::381.0,train
+raw/color/Tomato___Bacterial_spot/26cabbbf-57e1-42a5-9fdc-e819b4b02d39___GCREC_Bact.Sp 3437.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::123.0,train
+raw/color/Tomato___Bacterial_spot/d1c21ca6-efc2-48f3-a1be-1593320db75c___GCREC_Bact.Sp 3623.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::169.0,train
+raw/color/Tomato___Bacterial_spot/a2ea3cb7-5c9e-4d3c-9e6c-42f7eb5f98a4___GCREC_Bact.Sp 6076.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::361.0,train
+raw/color/Tomato___Bacterial_spot/4523ca34-56f9-467b-9194-a297cf47e09a___GCREC_Bact.Sp 3854.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::226.0,train
+raw/color/Tomato___Bacterial_spot/5611facf-a786-4b41-810f-dd9700f5f75e___GCREC_Bact.Sp 3340.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::99.0,train
+raw/color/Tomato___Bacterial_spot/8e2b3e53-24b7-4817-a50f-c5e972b9ae83___GCREC_Bact.Sp 5856.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::307.0,train
+raw/color/Tomato___Bacterial_spot/9f7e3b19-dd2c-4e1f-b339-d0c180d2c453___GCREC_Bact.Sp 5810.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::295.0,train
+raw/color/Tomato___Bacterial_spot/ee5192e5-c7fc-402f-ac78-6ae93fd85032___GCREC_Bact.Sp 3323.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::95.0,train
+raw/color/Tomato___Bacterial_spot/81e8620d-1331-48b7-8952-9a7ca2378faa___GCREC_Bact.Sp 3698.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::188.0,train
+raw/color/Tomato___Bacterial_spot/c9c0a326-c094-4cea-94cb-bc240bb3be23___GCREC_Bact.Sp 3652.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::177.0,train
+raw/color/Tomato___Bacterial_spot/12e9560a-01a5-4d97-a911-409c11cd0301___GCREC_Bact.Sp 3117.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::43.0,train
+raw/color/Tomato___Bacterial_spot/68bc253e-0c0f-4180-8f86-13048c04b26e___GCREC_Bact.Sp 6088.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::364.0,train
+raw/color/Tomato___Bacterial_spot/f16c8cc2-693b-4050-bbf6-686973becdad___GCREC_Bact.Sp 3780.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::208.0,train
+raw/color/Tomato___Bacterial_spot/54d57dd6-1ad0-4c53-ad9a-4f5ea8101807___UF.GRC_BS_Lab Leaf 9141.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::523.0,train
+raw/color/Tomato___Bacterial_spot/8d51e875-d780-41a6-958a-44e3279ad058___GCREC_Bact.Sp 6184.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::388.0,train
+raw/color/Tomato___Bacterial_spot/b2045ca9-7594-4ff9-a2ae-4faef86160ba___GCREC_Bact.Sp 5816.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::297.0,train
+raw/color/Tomato___Bacterial_spot/a7c50117-d297-469d-8a1c-6ec7a5a6f2df___GCREC_Bact.Sp 5769.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::285.0,train
+raw/color/Tomato___Bacterial_spot/2731979e-e02a-4736-8475-4542fcc6f596___UF.GRC_BS_Lab Leaf 0227.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::442.0,train
+raw/color/Tomato___Bacterial_spot/a66d03dc-9358-40c6-81dd-8ceede163a46___GCREC_Bact.Sp 3021.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::19.0,train
+raw/color/Tomato___Bacterial_spot/69313469-d592-4877-a2a6-4d387988352e___GCREC_Bact.Sp 3855.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::227.0,train
+raw/color/Tomato___Bacterial_spot/b9d57ea9-6651-4a64-a6ec-6551ac190d5c___GCREC_Bact.Sp 3078.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::34.0,train
+raw/color/Tomato___Bacterial_spot/759331b9-f9ad-4bb7-9870-6cd3a8b84913___GCREC_Bact.Sp 5561.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::233.0,train
+raw/color/Tomato___Bacterial_spot/eba8000b-ecbc-4417-bc21-67c7e4dd8c8d___GCREC_Bact.Sp 5916.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::322.0,train
+raw/color/Tomato___Bacterial_spot/8d4ca679-c45e-4d6a-934c-2dc64684c53e___GCREC_Bact.Sp 3774.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::207.0,train
+raw/color/Tomato___Bacterial_spot/5a198510-9f1e-4699-b747-d0b1c0892756___UF.GRC_BS_Lab Leaf 0768.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::480.0,train
+raw/color/Tomato___Bacterial_spot/91e017a6-9d9e-4e53-9d45-fad0cb79b20d___GCREC_Bact.Sp 6014.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::345.0,train
+raw/color/Tomato___Bacterial_spot/ea62b5e0-7ccf-4ec5-b103-16206214caaa___GCREC_Bact.Sp 6253.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::405.0,train
+raw/color/Tomato___Bacterial_spot/c61c9a75-61bb-4f14-b5a5-501c6ca5bccc___GCREC_Bact.Sp 3795.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::212.0,train
+raw/color/Tomato___Bacterial_spot/861b4a16-2ed2-4a27-980a-196e8a26e58e___UF.GRC_BS_Lab Leaf 9305.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::532.0,train
+raw/color/Tomato___Bacterial_spot/2a377230-f904-4646-95da-76e242051242___GCREC_Bact.Sp 3085.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::35.0,train
+raw/color/Tomato___Bacterial_spot/55339b80-574d-4379-bc85-35558fcc0bea___UF.GRC_BS_Lab Leaf 0554.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::469.0,train
+raw/color/Tomato___Bacterial_spot/c9f48a07-6bc4-4a62-a817-3b99a64160cc___UF.GRC_BS_Lab Leaf 1208.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::494.0,train
+raw/color/Tomato___Bacterial_spot/6f211a42-cdd8-4c5c-89b3-17e50f324621___GCREC_Bact.Sp 3569.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::156.0,train
+raw/color/Tomato___Bacterial_spot/581cabbe-38dc-4694-8180-e7ffb4786102___GCREC_Bact.Sp 3691.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::186.0,train
+raw/color/Tomato___Bacterial_spot/0eeb4776-110d-4100-8c88-26a64eb05b22___GCREC_Bact.Sp 6101.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::367.0,train
+raw/color/Tomato___Bacterial_spot/2a9c6104-6e28-444a-aa97-027020004409___GCREC_Bact.Sp 3605.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::165.0,train
+raw/color/Tomato___Bacterial_spot/a2e2a626-aafb-4383-8fa8-cc4d2071348a___GCREC_Bact.Sp 3125.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::45.0,train
+raw/color/Tomato___Bacterial_spot/f1cc12b3-3116-4b31-81fc-6383303f84ae___UF.GRC_BS_Lab Leaf 0352.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::455.0,train
+raw/color/Tomato___Bacterial_spot/2fb3c629-42bc-4027-8f7b-505ce5e0c211___GCREC_Bact.Sp 3460.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::129.0,train
+raw/color/Tomato___Bacterial_spot/5849b4f9-da0f-46fc-9671-fafef05c921b___UF.GRC_BS_Lab Leaf 9276.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::529.0,train
+raw/color/Tomato___Bacterial_spot/5360a154-707e-47fe-94cf-dbe155b648bd___GCREC_Bact.Sp 3270.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::82.0,train
+raw/color/Tomato___Bacterial_spot/9a49c63a-b86d-4815-a1d2-0800ec359f9f___UF.GRC_BS_Lab Leaf 0304.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::451.0,train
+raw/color/Tomato___Bacterial_spot/bb72c8b2-9f96-4320-8062-e7b47839a39b___GCREC_Bact.Sp 3266.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::81.0,train
+raw/color/Tomato___Bacterial_spot/c07fc97b-6fd7-4e55-a6e4-698184dbc5b8___GCREC_Bact.Sp 5686.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::264.0,train
+raw/color/Tomato___Bacterial_spot/c3ac7b7a-a626-4004-ae2b-58720f38f027___GCREC_Bact.Sp 6299.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::416.0,train
+raw/color/Tomato___Bacterial_spot/885c07cf-7443-4cc6-ba15-cc8e75aa7ebe___GCREC_Bact.Sp 6016.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::346.0,train
+raw/color/Tomato___Bacterial_spot/d8d2baf6-87de-43e5-bd40-48dfe33841d3___GCREC_Bact.Sp 5747.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::280.0,train
+raw/color/Tomato___Bacterial_spot/b3e6f770-c0fc-4bc1-9e81-81a73899b3a9___UF.GRC_BS_Lab Leaf 0212.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::440.0,train
+raw/color/Tomato___Bacterial_spot/86bcf005-a793-4d1f-a767-99548b4c3aa6___GCREC_Bact.Sp 3131.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::47.0,train
+raw/color/Tomato___Bacterial_spot/ed72f0b8-cd69-41fd-99a8-ae792c6fa16f___GCREC_Bact.Sp 3186.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::61.0,train
+raw/color/Tomato___Bacterial_spot/88f636cd-922e-46b2-a630-200a002f3da3___GCREC_Bact.Sp 3000.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::14.0,train
+raw/color/Tomato___Bacterial_spot/086dd5ed-279a-458b-aa4a-1484305ac21c___UF.GRC_BS_Lab Leaf 8835.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::507.0,train
+raw/color/Tomato___Bacterial_spot/c89a5319-7f76-4e6e-ad4e-808a4af55891___GCREC_Bact.Sp 3210.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::67.0,train
+raw/color/Tomato___Bacterial_spot/99187376-a5c2-41a7-9eb5-73cc0b2e5c2d___GCREC_Bact.Sp 3137.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::48.0,train
+raw/color/Tomato___Bacterial_spot/486fec1f-c2fe-4aab-9e88-46ad54ebdbea___GCREC_Bact.Sp 5995.JPG,Tomato___Bacterial_spot,1,Tomato___Bacterial_spot::Tomato___Bacterial_spot:::341.0,train
+raw/color/Tomato___Early_blight/7d8a95e9-ea83-44f4-9f7c-ad4692b1ce1f___RS_Erly.B 7534.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::74.0,train
+raw/color/Tomato___Early_blight/e008f248-eaa3-4d65-a649-4ba7134f4c56___RS_Erly.B 9537.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::229.0,train
+raw/color/Tomato___Early_blight/872ec950-8238-4f73-a366-f72f2f92d3fe___RS_Erly.B 7487.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::63.0,train
+raw/color/Tomato___Early_blight/07409e2c-a730-4b11-b25e-31025bd63a91___RS_Erly.B 9578.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::240.0,train
+raw/color/Tomato___Early_blight/74c531fc-c39c-429c-b285-909272c4238b___RS_Erly.B 9550.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::233.0,train
+raw/color/Tomato___Early_blight/25b96058-36c9-4213-bb16-088e76cb30b1___RS_Erly.B 9417.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::200.0,train
+raw/color/Tomato___Early_blight/9b84e7ac-4ffd-4e0b-8099-86f30ad23cda___RS_Erly.B 7731.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::123.0,train
+raw/color/Tomato___Early_blight/62b8d81a-906b-4885-8b2d-e317d7bdd705___RS_Erly.B 7832.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::148.0,train
+raw/color/Tomato___Early_blight/4c524fa6-db92-41e1-8d32-84732f78343f___RS_Erly.B 7768.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::132.0,train
+raw/color/Tomato___Early_blight/23e8ae15-6cfc-4518-9266-3a289a7bced7___RS_Erly.B 6479.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::26.0,train
+raw/color/Tomato___Early_blight/fbb02290-8863-482f-b898-0ea83a2b2fee___RS_Erly.B 9592.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::243.0,train
+raw/color/Tomato___Early_blight/d3fd3d9c-60ba-432c-a4a7-049f014ecace___RS_Erly.B 7696.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::114.0,train
+raw/color/Tomato___Early_blight/1863e110-8422-400b-89a6-f0ef457659cc___RS_Erly.B 6462.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::23.0,train
+raw/color/Tomato___Early_blight/484250ea-cc2c-4614-bee8-7f24007e00ac___RS_Erly.B 9463.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::211.0,train
+raw/color/Tomato___Early_blight/54e98d19-a7a0-44d8-a004-1eaee5f3610b___RS_Erly.B 7348.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::31.0,train
+raw/color/Tomato___Early_blight/aca65de6-6464-4f8c-803d-b55f92f950f8___RS_Erly.B 6663.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::30.0,train
+raw/color/Tomato___Early_blight/2ffcdf9e-9cf5-492e-80f8-6f80cd0be7cb___RS_Erly.B 7421.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::48.0,train
+raw/color/Tomato___Early_blight/a0db48a5-bbb6-4374-ad9f-8132e33280f5___RS_Erly.B 7791.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::138.0,train
+raw/color/Tomato___Early_blight/82b12772-f0ea-4d47-9e1e-8f03bb1c20c5___RS_Erly.B 7429.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::50.0,train
+raw/color/Tomato___Early_blight/96418ba8-a05f-4dea-9f8c-d4310ee564be___RS_Erly.B 7620.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::95.0,train
+raw/color/Tomato___Early_blight/bc351ae2-a270-4e17-aff9-b1f559f665f3___RS_Erly.B 7634.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::99.0,train
+raw/color/Tomato___Early_blight/4b8821ef-8364-4a04-9549-58d58ffe0411___RS_Erly.B 7704.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::116.0,train
+raw/color/Tomato___Early_blight/50cd977c-9fa8-4ff2-9a82-9d848f0a8972___RS_Erly.B 7683.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::111.0,train
+raw/color/Tomato___Early_blight/68d40fcc-8554-4973-9abc-27fc1928cc9c___RS_Erly.B 7595.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::89.0,train
+raw/color/Tomato___Early_blight/ef68398c-ec92-4e44-961a-5ec1a29d3c28___RS_Erly.B 9620.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::250.0,train
+raw/color/Tomato___Early_blight/a86f36c6-2089-4367-ba3e-5b7c8b3c0084___RS_Erly.B 7492.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::64.0,train
+raw/color/Tomato___Early_blight/e9adf635-754d-4bc3-af3d-4b3e1bd81812___RS_Erly.B 9438.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::205.0,train
+raw/color/Tomato___Early_blight/d0efac0c-12e0-4481-bf88-a99d9407b31b___RS_Erly.B 6466.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::24.0,train
+raw/color/Tomato___Early_blight/c163bdbd-0c60-44da-be29-a1d0cad71b72___RS_Erly.B 8343.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::173.0,train
+raw/color/Tomato___Early_blight/f8aaa5e3-fe38-4815-8f1d-8ca71db15a8f___RS_Erly.B 7511.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::68.0,train
+raw/color/Tomato___Early_blight/f40b2786-1a17-46e6-b2cb-4ac1beb386fa___RS_Erly.B 6483.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::27.0,train
+raw/color/Tomato___Early_blight/58268d35-a896-406d-9686-5f2f2b9a5b10___RS_Erly.B 7433.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::51.0,train
+raw/color/Tomato___Early_blight/342d78c9-af97-4325-ad0f-0f12e0a206c2___RS_Erly.B 7406.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::45.0,train
+raw/color/Tomato___Early_blight/8597694d-3162-40ab-9f5b-e8c7cf03e045___RS_Erly.B 9485.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::217.0,train
+raw/color/Tomato___Early_blight/c0caae76-1327-4d16-95dd-138603f7573b___RS_Erly.B 8362.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::175.0,train
+raw/color/Tomato___Early_blight/66c98dd1-2790-4977-91ee-1b10ca8c687b___RS_Erly.B 8418.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::183.0,train
+raw/color/Tomato___Early_blight/49c8f57f-3418-45db-b807-6192c20dfc6a___RS_Erly.B 7784.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::136.0,train
+raw/color/Tomato___Early_blight/ec5d1d0a-2909-4c2d-81d5-4bbed298167b___RS_Erly.B 6340.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::2.0,train
+raw/color/Tomato___Early_blight/5c81bfc2-d377-4fc8-9f51-ff26a997c20b___RS_Erly.B 6345.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::3.0,train
+raw/color/Tomato___Early_blight/13c87a78-0a62-4aff-b6f3-fcbf1a8323e6___RS_Erly.B 9612.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::248.0,train
+raw/color/Tomato___Early_blight/0f111718-a749-42cf-9495-412f4b51acf0___RS_Erly.B 7482.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::62.0,train
+raw/color/Tomato___Early_blight/4e24576f-00c2-494f-b47b-b2b3885b4749___RS_Erly.B 8279.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::165.0,train
+raw/color/Tomato___Early_blight/25281e43-2651-423f-8e7e-d354185ccd28___RS_Erly.B 7809.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::142.0,train
+raw/color/Tomato___Early_blight/4aa63e45-c531-40e2-86ca-a788e74d4f18___RS_Erly.B 7549.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::78.0,train
+raw/color/Tomato___Early_blight/7b377a4c-886c-46c5-8a57-a636cc47c9a8___RS_Erly.B 6475.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::25.0,train
+raw/color/Tomato___Early_blight/605ce000-1122-45ae-8742-93a7de8c712c___RS_Erly.B 7627.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::97.0,train
+raw/color/Tomato___Early_blight/79b737a7-eca5-4eb9-b30e-dd3e85640e55___RS_Erly.B 9492.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::218.0,train
+raw/color/Tomato___Early_blight/8a089fe7-9e6a-4db7-b0e8-9792e4abc326___RS_Erly.B 7466.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::58.0,train
+raw/color/Tomato___Early_blight/d60c253c-b97e-4076-8eac-bae34e1bbdc9___RS_Erly.B 7749.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::127.0,train
+raw/color/Tomato___Early_blight/df86b9f1-3871-4139-be7d-928bd3e6d642___RS_Erly.B 7497.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::65.0,train
+raw/color/Tomato___Early_blight/04e38351-80bc-4260-8a4d-187f7817c3e5___RS_Erly.B 7439.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::53.0,train
+raw/color/Tomato___Early_blight/d204ed67-ae0c-40fa-84a4-0e7ef9bca62d___RS_Erly.B 8432.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::185.0,train
+raw/color/Tomato___Early_blight/3b1caf5d-9b90-4adc-bde6-8a16af479f0a___RS_Erly.B 8270.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::164.0,train
+raw/color/Tomato___Early_blight/1ba88993-c3f8-462d-bd1b-e10819b9c96f___RS_Erly.B 8396.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::180.0,train
+raw/color/Tomato___Early_blight/9f77a006-11c0-4466-bdb3-9273b299450d___RS_Erly.B 7800.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::140.0,train
+raw/color/Tomato___Early_blight/297feea8-4707-4d39-a6af-b1c0e3403935___RS_Erly.B 7816.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::144.0,train
+raw/color/Tomato___Early_blight/0b494c44-8cd0-4491-bdfd-8a354209c3ae___RS_Erly.B 9561.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::235.0,train
+raw/color/Tomato___Early_blight/7621d943-ed1a-4ffb-8fa4-8c12d50424de___RS_Erly.B 8322.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::171.0,train
+raw/color/Tomato___Early_blight/ff83852f-65e0-4981-8c66-6b86d34b32c2___RS_Erly.B 9582.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::241.0,train
+raw/color/Tomato___Early_blight/ca7035fa-f55d-49c7-9d89-3d513c8e35b1___RS_Erly.B 7556.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::79.0,train
+raw/color/Tomato___Early_blight/03b7a13c-f5c0-44c4-beed-443841670e9a___RS_Erly.B 8225.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::159.0,train
+raw/color/Tomato___Early_blight/eabc47ee-5023-476b-9992-53baa566d270___RS_Erly.B 7757.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::129.0,train
+raw/color/Tomato___Early_blight/533debcd-c993-4c11-8515-9ec280cdc023___RS_Erly.B 7389.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::40.0,train
+raw/color/Tomato___Early_blight/27ba7432-8547-436c-9b97-adf3cbe15575___RS_Erly.B 7544.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::76.0,train
+raw/color/Tomato___Early_blight/0401adc0-0998-4d8e-90de-4eae8caf4248___RS_Erly.B 8446.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::187.0,train
+raw/color/Tomato___Early_blight/5ad16a00-4f2d-4872-a45c-80250b507ecc___RS_Erly.B 9378.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::190.0,train
+raw/color/Tomato___Early_blight/fe856320-407c-4390-9960-a6a539371182___RS_Erly.B 7624.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::96.0,train
+raw/color/Tomato___Early_blight/5daba301-b6f9-4fc4-8be7-a918d3a7554c___RS_Erly.B 8282.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::166.0,train
+raw/color/Tomato___Early_blight/bad3a868-aed5-408f-b0a8-f018994ce28b___RS_Erly.B 7789.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::137.0,train
+raw/color/Tomato___Early_blight/a6041f09-68f2-4865-ad78-81018617d2c4___RS_Erly.B 6450.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::21.0,train
+raw/color/Tomato___Early_blight/f0763973-1898-4ae6-9350-c9b61976c600___RS_Erly.B 6456.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::22.0,train
+raw/color/Tomato___Early_blight/b24b9d32-857b-45ef-be89-552232fadfb2___RS_Erly.B 7763.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::131.0,train
+raw/color/Tomato___Early_blight/a1d275d1-5405-4829-9328-4225ffe69506___RS_Erly.B 7515.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::69.0,train
+raw/color/Tomato___Early_blight/3a8ed6b0-1566-4ab1-b0e2-6a670dfca65a___RS_Erly.B 7653.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::104.0,train
+raw/color/Tomato___Early_blight/52232f20-1d2d-4545-9a5c-76ed0f608bd2___RS_Erly.B 6445.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::20.0,train
+raw/color/Tomato___Early_blight/8405be22-ecbb-4cec-a87d-e0d454b9926d___RS_Erly.B 7847.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::152.0,train
+raw/color/Tomato___Early_blight/fee744d4-d0e5-439d-8b7b-04f8394251e8___RS_Erly.B 7396.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::42.0,train
+raw/color/Tomato___Early_blight/07502bbb-1733-4d49-a3dc-557b1d4391da___RS_Erly.B 7516.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::70.0,train
+raw/color/Tomato___Early_blight/59fbd532-f75e-4c09-be68-3707d1323868___RS_Erly.B 7863.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::156.0,train
+raw/color/Tomato___Early_blight/10fedb70-9786-4623-a32b-97a622037511___RS_Erly.B 7796.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::139.0,train
+raw/color/Tomato___Early_blight/8824899d-1dce-4729-860b-336d563bc268___RS_Erly.B 7837.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::150.0,train
+raw/color/Tomato___Early_blight/90b9c783-480b-4f9b-a97a-d632f60a8f24___RS_Erly.B 9566.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::237.0,train
+raw/color/Tomato___Early_blight/de57a88b-7170-4eca-93f6-330df50fa8b5___RS_Erly.B 9541.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::230.0,train
+raw/color/Tomato___Early_blight/0a2726e0-3358-4a46-b6dc-563a5a9f2bdf___RS_Erly.B 7860.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::155.0,train
+raw/color/Tomato___Early_blight/48160d05-d3e5-44bb-810e-18d08407b529___RS_Erly.B 9606.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::247.0,train
+raw/color/Tomato___Early_blight/66779f6e-2eb3-4bd5-82c1-e00bab5b3b9b___RS_Erly.B 7374.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::38.0,train
+raw/color/Tomato___Early_blight/0114f7b3-7f56-4bef-aa47-7a82da142d4b___RS_Erly.B 7437.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::52.0,train
+raw/color/Tomato___Early_blight/32f37240-9abc-4a4d-8c62-37ee3e89d0b6___RS_Erly.B 6424.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::16.0,train
+raw/color/Tomato___Early_blight/9d16bfcd-955e-4a5c-90ea-c7cce8dd9135___RS_Erly.B 7811.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::143.0,train
+raw/color/Tomato___Early_blight/a442ef7e-3c93-45d9-85c0-5fa66fe32bb8___RS_Erly.B 7504.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::67.0,train
+raw/color/Tomato___Early_blight/a5c26ace-e91d-4afc-a958-eee6bbe7aed2___RS_Erly.B 6361.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::6.0,train
+raw/color/Tomato___Early_blight/55d4f7b2-17d3-4987-92fe-6aff1a8c4f3a___RS_Erly.B 7558.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::80.0,train
+raw/color/Tomato___Early_blight/a47435d5-cd96-4f92-96b9-edd35046c88f___RS_Erly.B 6390.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::11.0,train
+raw/color/Tomato___Early_blight/c21e480d-8263-4b9c-b429-4beceb2cb7d0___RS_Erly.B 8292.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::167.0,train
+raw/color/Tomato___Early_blight/987851e7-b309-4b26-94bc-628374aee931___RS_Erly.B 7530.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::73.0,train
+raw/color/Tomato___Early_blight/1f402ddb-f3e8-4907-a793-320c8e43446a___RS_Erly.B 9460.JPG,Tomato___Early_blight,2,Tomato___Early_blight::Tomato___Early_blight:::210.0,train
+raw/color/Tomato___Late_blight/bec2da2e-5c4d-4248-9518-92667847aa7c___GHLB2 Leaf 99.1.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 99.1,train
+raw/color/Tomato___Late_blight/121097dd-b0cb-436b-9b2f-7dab30c86872___GHLB_PS Leaf 37.1 Day 13.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 37.1 Day 13,train
+raw/color/Tomato___Late_blight/72138adb-455c-4ddf-939e-00811e3fb6dd___GHLB2 Leaf 8750.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8750,train
+raw/color/Tomato___Late_blight/0cdd34fe-e8f2-41a7-b634-475338233f87___GHLB2 Leaf 8801.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8801,train
+raw/color/Tomato___Late_blight/151c010a-021f-459d-a456-63ebaf19b2d5___GHLB2 Leaf 9104.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 9104,train
+raw/color/Tomato___Late_blight/cd8e0f91-3cbd-4327-9966-e8d3424d2612___GHLB2 Leaf 8713.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8713,train
+raw/color/Tomato___Late_blight/1ac4f6ea-d2d0-4b94-93f0-788a5e92fe90___GHLB2 Leaf 8707.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8707,train
+raw/color/Tomato___Late_blight/34bd18fa-d898-40d4-83ed-665caabed7d0___RS_Late.B 5113.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::54.0,train
+raw/color/Tomato___Late_blight/3fb24ffc-0f4f-4990-99e9-d8170fc9f6cc___GHLB2 Leaf 131.2.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 131.2,train
+raw/color/Tomato___Late_blight/1f200e50-7cb5-4a83-8ecd-dcf133f1f45e___GHLB2 Leaf 8991.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8991,train
+raw/color/Tomato___Late_blight/a6876e29-dc0f-4716-bd3c-eedc9f45cf70___GHLB_PS Leaf 41 Day 18.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 41 Day 18,train
+raw/color/Tomato___Late_blight/09590524-981f-4dc5-b6e3-5225a0c48019___GHLB2ES Leaf 140.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2ES Leaf 140,train
+raw/color/Tomato___Late_blight/f972ee8f-5f07-49a0-974c-b919b0ad5b0b___RS_Late.B 4961.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::24.0,train
+raw/color/Tomato___Late_blight/c421eebc-d8ec-42d7-bcc9-a615343216a0___GHLB2 Leaf 8912.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8912,train
+raw/color/Tomato___Late_blight/08a723e4-6b51-4395-8013-b1f3f03709b8___GHLB2 Leaf 8967.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8967,train
+raw/color/Tomato___Late_blight/56dfc698-989d-4515-b7de-1c2ac6283bb3___GHLB2 Leaf 8923.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8923,train
+raw/color/Tomato___Late_blight/6c9a2927-d29d-4cca-80d9-63ddb240ef70___RS_Late.B 5340.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::82.0,train
+raw/color/Tomato___Late_blight/ab503aa2-fb87-44a5-97f9-f2dd80c1697d___GHLB2 Leaf 8647.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8647,train
+raw/color/Tomato___Late_blight/89d2801e-6359-4079-a4c2-0df4718d7800___GHLB_PS Leaf 1 Day 8.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 1 Day 8,train
+raw/color/Tomato___Late_blight/449c9233-a3bb-4743-874b-f5d092d652b9___GHLB2 Leaf 8975.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8975,train
+raw/color/Tomato___Late_blight/e5b328bf-1f13-4831-bd63-b1bdb30f02d9___GHLB2 Leaf 8674.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8674,train
+raw/color/Tomato___Late_blight/d56280c8-1442-476c-bdc8-8bb99edad8dd___GHLB2 Leaf 8847.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8847,train
+raw/color/Tomato___Late_blight/fc77b008-6f35-40c7-96d4-64660bb624dc___GHLB2 Leaf 8812.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8812,train
+raw/color/Tomato___Late_blight/860b6c56-686a-4f21-8ae3-d7e45acd760b___GHLB_PS Leaf 25 Day 16.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 25 Day 16,train
+raw/color/Tomato___Late_blight/0b6caac4-cc62-4c46-9de4-1815a0aa6dbe___GHLB2 Leaf 8799.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8799,train
+raw/color/Tomato___Late_blight/48c55974-9fe9-4f4b-94f7-c8cd127d1e05___GHLB_PS Leaf 23.7 Day 13.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 23.7 Day 13,train
+raw/color/Tomato___Late_blight/92487391-6fdf-47bb-ae35-b0a48bed62fd___GHLB2 Leaf 9095.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 9095,train
+raw/color/Tomato___Late_blight/54b808b7-ab47-4ce0-992c-cc02588ec6a9___GHLB2 Leaf 8623.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8623,train
+raw/color/Tomato___Late_blight/0ccaeb36-37ff-4328-91c8-99aabd68f442___RS_Late.B 6596.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::177.0,train
+raw/color/Tomato___Late_blight/5114b264-0305-4447-b560-6ca1826d3420___GHLB_PS Leaf 24.1 Day 16.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 24.1 Day 16,train
+raw/color/Tomato___Late_blight/cf848353-3cc5-4d85-95ae-453c7da065f4___RS_Late.B 6756.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::189.0,train
+raw/color/Tomato___Late_blight/4c74c480-981a-40ef-87e6-06713b9e21db___RS_Late.B 6972.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::209.0,train
+raw/color/Tomato___Late_blight/869168d7-a45c-40e6-888b-ad5ba94a657e___RS_Late.B 6193.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::143.0,train
+raw/color/Tomato___Late_blight/12d62ed2-a145-4400-824d-3e4d5f64418a___RS_Late.B 6586.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::176.0,train
+raw/color/Tomato___Late_blight/ff82087d-e992-41fb-a2ec-f726d92e6c58___GHLB_PS Leaf 27 day 13.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 27 day 13,train
+raw/color/Tomato___Late_blight/bbb807e9-9eef-4220-bbcd-9663542c0d4e___GHLB2 Leaf 9035.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 9035,train
+raw/color/Tomato___Late_blight/4462526f-af54-4342-8f7d-56f5a6052e9b___GHLB2 Leaf 111.1.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 111.1,train
+raw/color/Tomato___Late_blight/9c0d321d-1b14-40df-a9fe-1c6b8e10f13b___GHLB2 Leaf 8770.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8770,train
+raw/color/Tomato___Late_blight/4c27ed2d-96c2-4f8f-ac68-d699bc665cec___GHLB2 Leaf 8954.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8954,train
+raw/color/Tomato___Late_blight/98e780fb-2eab-49ab-89c0-6e2b3516a461___GHLB2 Leaf 8610.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8610,train
+raw/color/Tomato___Late_blight/418ae33c-5f61-4531-82df-8608d82a7a90___RS_Late.B 5574.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::111.0,train
+raw/color/Tomato___Late_blight/f5aebbf7-df07-4682-8d3b-3dd46e2e36c4___GHLB2 Leaf 9092.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 9092,train
+raw/color/Tomato___Late_blight/9718ddc7-7afb-40e4-b94a-bf86c9e0beea___GHLB2 Leaf 8642.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8642,train
+raw/color/Tomato___Late_blight/ecb763a0-f905-48f2-a142-afa120068c82___GHLB2ES Leaf 119.2.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2ES Leaf 119.2,train
+raw/color/Tomato___Late_blight/94531b7b-15e2-4cd3-b6c2-cb3df21c9848___GHLB2 Leaf 8559.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8559,train
+raw/color/Tomato___Late_blight/d84f5ea2-462a-40e2-8b01-916a65588aaf___GHLB_PS Leaf 22 Day 9.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 22 Day 9,train
+raw/color/Tomato___Late_blight/397a3ca2-cc7b-496e-af81-394270be3d61___GHLB2 Leaf 73.1.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 73.1,train
+raw/color/Tomato___Late_blight/a2405206-ef97-4d3c-b143-ec07ac51f89e___GHLB2 Leaf 8555.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8555,train
+raw/color/Tomato___Late_blight/5cfd46ee-eb76-4bdb-83c7-04707116eaed___GHLB2 Leaf 91.1.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 91.1,train
+raw/color/Tomato___Late_blight/41e1ea20-a4d0-4ef0-9362-b3756c8c06ec___GHLB2 Leaf 8755.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8755,train
+raw/color/Tomato___Late_blight/76f42272-013f-4150-8c60-58a853336160___GHLB2 Leaf 82.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 82,train
+raw/color/Tomato___Late_blight/955e9314-b03b-4f51-afdf-9b5f44e2edce___GHLB2 Leaf 9043.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 9043,train
+raw/color/Tomato___Late_blight/e7aaf85a-7392-43b1-9b10-6f1fb0045cba___GHLB2 Leaf 8961.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8961,train
+raw/color/Tomato___Late_blight/5a701380-2b9d-4dc4-9376-56ff0361a1dd___GHLB2 Leaf 8871.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8871,train
+raw/color/Tomato___Late_blight/90b93808-6b41-4539-9a76-ebe75ba61202___GHLB2 Leaf 155.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 155,train
+raw/color/Tomato___Late_blight/9176c69b-991a-4cd0-bfad-9742ad81a8b4___RS_Late.B 4989.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::30.0,train
+raw/color/Tomato___Late_blight/037c55c7-6e33-4b8d-af05-4d555f4e658e___GHLB_PS Leaf 42.1 Day 18.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 42.1 Day 18,train
+raw/color/Tomato___Late_blight/ed1a1e55-f2b9-46d3-ab88-8742f569e831___GHLB2 Leaf 8758.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8758,train
+raw/color/Tomato___Late_blight/dcf0db57-e7d2-487f-b9df-2ec299e0ee48___GHLB_PS Leaf 17.1 Day 8.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 17.1 Day 8,train
+raw/color/Tomato___Late_blight/9ce46f18-eccc-4dc4-aa01-f41ad7e6e7fb___GHLB2 Leaf 8544.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8544,train
+raw/color/Tomato___Late_blight/67a63018-22b8-45c5-8f71-90f7589a6ba5___GHLB2 Leaf 9032.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 9032,train
+raw/color/Tomato___Late_blight/1507883d-7f10-4b69-88d4-db80850b1664___GHLB2 Leaf 154.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 154,train
+raw/color/Tomato___Late_blight/47a6f6d3-e523-4103-bf89-ddc436f2a7a7___GHLB2 Leaf 154.5.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 154.5,train
+raw/color/Tomato___Late_blight/5ba6fbc5-a1de-4600-b0aa-9d8b8c222183___RS_Late.B 6181.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::142.0,train
+raw/color/Tomato___Late_blight/e377be2b-1780-4789-a082-3ec683942ca2___GHLB2 Leaf 60.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 60,train
+raw/color/Tomato___Late_blight/eedd252b-1d20-4cc8-94ca-b8800334996c___GHLB2 Leaf 8667.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8667,train
+raw/color/Tomato___Late_blight/c9f19d2a-8c9d-4ac1-b077-545c5d6f53a9___GHLB_PS Leaf 53 Day 18 .jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 53 Day 18,train
+raw/color/Tomato___Late_blight/5916c8e5-c9d2-4bc5-b5e7-8812caf890aa___GHLB_PS Leaf 29 Day 12.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 29 Day 12,train
+raw/color/Tomato___Late_blight/24c41335-1ad7-4b68-9756-577ed8cf3525___GHLB2 Leaf 144.1.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 144.1,train
+raw/color/Tomato___Late_blight/7f8ff945-6a8a-470b-aa5f-0b3f5ce87c01___GHLB Leaf 1.2 Day 13.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB Leaf 1.2 Day 13,train
+raw/color/Tomato___Late_blight/e03114a0-8053-460a-b653-eef873b1c531___RS_Late.B 5532.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::105.0,train
+raw/color/Tomato___Late_blight/8e06d830-df85-4b76-be46-c7814bedcd51___GHLB2 Leaf 8907.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8907,train
+raw/color/Tomato___Late_blight/70fa3718-7288-47cb-8e13-a16afbec4fe6___GHLB2 Leaf 127.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 127,train
+raw/color/Tomato___Late_blight/c933cfb7-d1c7-420b-88d0-7df28ae6ab2d___GHLB_PS Leaf 36.1 Day 13.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 36.1 Day 13,train
+raw/color/Tomato___Late_blight/366e33bd-7e1a-45b5-a473-374636bbcf02___GHLB2 Leaf 160.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 160,train
+raw/color/Tomato___Late_blight/021ca736-df21-458a-9010-fab4803f08fe___RS_Late.B 7010.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::213.0,train
+raw/color/Tomato___Late_blight/bb2fca37-44c5-400e-b81e-b402549d45c1___GHLB_PS Leaf 43.3 Day 18.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 43.3 Day 18,train
+raw/color/Tomato___Late_blight/0dd9d965-d68a-4e47-ba02-ebcadf13c7ae___GHLB2 Leaf 78.1.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 78.1,train
+raw/color/Tomato___Late_blight/0ab1cab4-a0c9-4323-9a64-cdafa4342a9b___GHLB2 Leaf 8918.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8918,train
+raw/color/Tomato___Late_blight/a63362e0-5e9f-4056-b66b-2f3fc23ea932___GHLB2 Leaf 111.2.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 111.2,train
+raw/color/Tomato___Late_blight/c483c433-f51f-4e00-beb8-642a07628971___GHLB2 Leaf 8960.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8960,train
+raw/color/Tomato___Late_blight/0862d3c1-82db-4f51-9acf-4908a7733600___GHLB2 Leaf 9005.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 9005,train
+raw/color/Tomato___Late_blight/d8674a0f-a63f-4d10-852a-4913ba977823___GHLB2 Leaf 8568.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8568,train
+raw/color/Tomato___Late_blight/e5d707cd-077c-43af-bda9-6138e516ff51___GHLB2 Leaf 8999.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8999,train
+raw/color/Tomato___Late_blight/067fa506-1859-485a-9a17-53aaf0e8b1c3___RS_Late.B 6641.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::181.0,train
+raw/color/Tomato___Late_blight/76b25fb0-e2fa-47ef-9b70-19efa3d65a9a___GHLB Leaf 1.4 Day 12.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB Leaf 1.4 Day 12,train
+raw/color/Tomato___Late_blight/02fe963e-7c68-4fd3-9f8f-36bf9e153c20___GHLB2 Leaf 8581.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8581,train
+raw/color/Tomato___Late_blight/854f717b-5d27-4d21-be89-29bf935b069a___GHLB2 Leaf 8650.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8650,train
+raw/color/Tomato___Late_blight/2ac8376a-3401-4572-af45-6984e6415996___GHLB2 Leaf 8787.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8787,train
+raw/color/Tomato___Late_blight/d865620c-16b6-484b-a45b-71ebc126d53f___GHLB2 Leaf 8795.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8795,train
+raw/color/Tomato___Late_blight/3ac52b85-d4a3-4958-9e68-399b919cf7b0___GHLB2 Leaf 8638.JPG,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB2 Leaf 8638,train
+raw/color/Tomato___Late_blight/60196a6c-a134-4107-8178-d1bb47450cee___GHLB Leaf 23.1 Day 9.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB Leaf 23.1 Day 9,train
+raw/color/Tomato___Late_blight/4b115bc3-911c-4e98-b948-a6a360f06a87___GHLB_PS Leaf 25 Day 9.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 25 Day 9,train
+raw/color/Tomato___Late_blight/aa32ce1a-27a6-4371-b119-ff5ea6e34a3d___GHLB_PS Leaf 24 Day 9.jpg,Tomato___Late_blight,3,Tomato___Late_blight::fallback_GHLB_PS Leaf 24 Day 9,train
+raw/color/Tomato___Late_blight/623fd84d-2230-42fb-bb93-170cd516ffd2___RS_Late.B 4864.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::8.0,train
+raw/color/Tomato___Late_blight/427af7ac-5593-4c8e-9a10-44978c009612___RS_Late.B 5452.JPG,Tomato___Late_blight,3,Tomato___Late_blight::Tomato___Late_blight:::97.0,train
+raw/color/Tomato___Tomato_mosaic_virus/a4917ff1-44a6-4f13-bb49-9368acb3a7e9___PSU_CG 2069.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2069,train
+raw/color/Tomato___Tomato_mosaic_virus/89bc4fcf-1c6c-4285-84b5-564fd657e150___PSU_CG 2419.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2419,train
+raw/color/Tomato___Tomato_mosaic_virus/73be89b4-f57a-4230-a0e4-4a0f50230fc7___PSU_CG 2142.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2142,train
+raw/color/Tomato___Tomato_mosaic_virus/597f8dc8-681f-49a8-8985-4ba5b181b53a___PSU_CG 2193.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2193,train
+raw/color/Tomato___Tomato_mosaic_virus/23987cfe-9866-46ce-b4ec-49ad82ede267___PSU_CG 2224.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2224,train
+raw/color/Tomato___Tomato_mosaic_virus/897f830b-569c-46e0-8c27-1b82504ae77f___PSU_CG 2113.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2113,train
+raw/color/Tomato___Tomato_mosaic_virus/ebf036fa-436b-42aa-8a34-0b0f188bc54a___PSU_CG 2134.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2134,train
+raw/color/Tomato___Tomato_mosaic_virus/7e30ae4f-05e2-4806-ad63-c86fb601d445___PSU_CG 2412.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2412,train
+raw/color/Tomato___Tomato_mosaic_virus/bd533964-8188-49ba-92e8-334cdc4ecb70___PSU_CG 2369.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2369,train
+raw/color/Tomato___Tomato_mosaic_virus/db0867bf-ca5a-4dd0-99e0-6d41efaffff6___PSU_CG 2334.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2334,train
+raw/color/Tomato___Tomato_mosaic_virus/d53047af-8624-4c80-a2be-8aa9ea6f0a35___PSU_CG 2208.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2208,train
+raw/color/Tomato___Tomato_mosaic_virus/f32568bd-2f68-4cbc-b083-4d9084858436___PSU_CG 2155.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2155,train
+raw/color/Tomato___Tomato_mosaic_virus/8e59061b-3802-4297-8724-a001efb95268___PSU_CG 2064.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2064,train
+raw/color/Tomato___Tomato_mosaic_virus/ba31b5ca-1a78-46f9-a76a-c203d81077d4___PSU_CG 2401.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2401,train
+raw/color/Tomato___Tomato_mosaic_virus/dccceb76-131a-4ce3-a864-5e46cf863c09___PSU_CG 2336.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2336,train
+raw/color/Tomato___Tomato_mosaic_virus/a72414b0-f520-4044-abeb-cd09c28b4a9f___PSU_CG 2267.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2267,train
+raw/color/Tomato___Tomato_mosaic_virus/eb04ce63-3a56-4ed4-abad-124215f10cae___PSU_CG 2264.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2264,train
+raw/color/Tomato___Tomato_mosaic_virus/72124620-ccfa-40d7-a518-a0257def7afc___PSU_CG 2335.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2335,train
+raw/color/Tomato___Tomato_mosaic_virus/a75c61c4-b765-42a1-9896-7937b15ed996___PSU_CG 2051.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2051,train
+raw/color/Tomato___Tomato_mosaic_virus/c16122a0-a5e9-47d6-82b6-93325f1e9667___PSU_CG 2385.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2385,train
+raw/color/Tomato___Tomato_mosaic_virus/e1693a70-df15-4743-829a-67f593d1e381___PSU_CG 2110.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2110,train
+raw/color/Tomato___Tomato_mosaic_virus/69d3740b-5aba-47e2-ae2f-46541333c3a5___PSU_CG 2420.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2420,train
+raw/color/Tomato___Tomato_mosaic_virus/5f45109b-365d-47f2-9921-07e576ac9a93___PSU_CG 2314.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2314,train
+raw/color/Tomato___Tomato_mosaic_virus/c1ca36c4-bffc-494d-9199-0753d7319bce___PSU_CG 2357.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2357,train
+raw/color/Tomato___Tomato_mosaic_virus/ca62b320-b16a-4c41-aae6-0b9492c499f6___PSU_CG 2165.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2165,train
+raw/color/Tomato___Tomato_mosaic_virus/b9c75527-d6ee-4c24-b293-9618b378157c___PSU_CG 2130.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2130,train
+raw/color/Tomato___Tomato_mosaic_virus/29bbbfcc-76ef-4506-9c1b-1a749646856e___PSU_CG 2184.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2184,train
+raw/color/Tomato___Tomato_mosaic_virus/8a000704-8eda-40bd-b07d-d04634d4fe72___PSU_CG 2238.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2238,train
+raw/color/Tomato___Tomato_mosaic_virus/09910ece-e505-4e19-ae9b-0d9e2eaa2cb1___PSU_CG 2047.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2047,train
+raw/color/Tomato___Tomato_mosaic_virus/0c05f5bb-e38d-422f-8b1c-632d8c0d730c___PSU_CG 2133.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2133,train
+raw/color/Tomato___Tomato_mosaic_virus/79894594-feb4-46ca-830c-5f1cf5b11063___PSU_CG 2063.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2063,train
+raw/color/Tomato___Tomato_mosaic_virus/006e354b-c054-4b72-a83c-e3feb038942e___PSU_CG 2330.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2330,train
+raw/color/Tomato___Tomato_mosaic_virus/388f46e3-32d3-45f3-84fd-12cb06feed12___PSU_CG 2119.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2119,train
+raw/color/Tomato___Tomato_mosaic_virus/0e56889c-7e80-49f3-8da3-3a437244e8fd___PSU_CG 2140.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2140,train
+raw/color/Tomato___Tomato_mosaic_virus/58ddf6d1-0e20-4c35-944f-d50c922a07d8___PSU_CG 2415.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2415,train
+raw/color/Tomato___Tomato_mosaic_virus/97465c93-52c3-4df9-a820-de9ae6f4d03e___PSU_CG 2232.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2232,train
+raw/color/Tomato___Tomato_mosaic_virus/99e849b4-3c38-4a96-ba96-14a133861e06___PSU_CG 2151.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2151,train
+raw/color/Tomato___Tomato_mosaic_virus/ecc79dcf-6446-4df2-a8c8-ab322effeec3___PSU_CG 2220.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2220,train
+raw/color/Tomato___Tomato_mosaic_virus/d636946f-b3da-4b36-aeb6-f602ef86a245___PSU_CG 2101.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2101,train
+raw/color/Tomato___Tomato_mosaic_virus/119554ae-c777-46da-abb7-591404fdc65f___PSU_CG 2393.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2393,train
+raw/color/Tomato___Tomato_mosaic_virus/82a23930-4324-4d3e-b599-9861796f01db___PSU_CG 2366.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2366,train
+raw/color/Tomato___Tomato_mosaic_virus/adb470b2-bae7-4386-bbc2-cda168dd69e2___PSU_CG 2315.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2315,train
+raw/color/Tomato___Tomato_mosaic_virus/5d3eb639-b75e-4929-9a6a-4b89856b2345___PSU_CG 2273.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2273,train
+raw/color/Tomato___Tomato_mosaic_virus/1cee26b4-0ba1-4371-8c7e-c641e6ca311d___PSU_CG 2283.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2283,train
+raw/color/Tomato___Tomato_mosaic_virus/94cfe1f8-8f00-48a1-abd2-6a4f8e2a4c55___PSU_CG 2077.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2077,train
+raw/color/Tomato___Tomato_mosaic_virus/2324b02b-1f9d-46a2-82f2-23856019d516___PSU_CG 2382.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2382,train
+raw/color/Tomato___Tomato_mosaic_virus/7d35f41d-27d1-4ff8-8527-54ca210a47b5___PSU_CG 2359.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2359,train
+raw/color/Tomato___Tomato_mosaic_virus/12f82f12-23f5-4edc-82d7-8bc3ee6f4848___PSU_CG 2373.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2373,train
+raw/color/Tomato___Tomato_mosaic_virus/f833998e-f306-4f40-b702-3d4ab8f4ad27___PSU_CG 2331.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2331,train
+raw/color/Tomato___Tomato_mosaic_virus/274c03c3-c69a-4182-ba3f-d6e93b2dea0b___PSU_CG 2349.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2349,train
+raw/color/Tomato___Tomato_mosaic_virus/fcf80369-b340-4a7c-becc-8a600eb73447___PSU_CG 2175.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2175,train
+raw/color/Tomato___Tomato_mosaic_virus/2f8c596f-15d8-4524-b527-8617329c1819___PSU_CG 2146.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2146,train
+raw/color/Tomato___Tomato_mosaic_virus/4ab92098-cb26-40ef-b145-fbd1cdde9bd5___PSU_CG 2392.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2392,train
+raw/color/Tomato___Tomato_mosaic_virus/4c518a8d-6ecc-45c2-b14c-f610a400c950___PSU_CG 2370.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2370,train
+raw/color/Tomato___Tomato_mosaic_virus/a4453e9a-4ede-4377-be38-fd77e9bf16f0___PSU_CG 2308.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2308,train
+raw/color/Tomato___Tomato_mosaic_virus/1d89d788-438c-4cee-9403-6fd8ac9863de___PSU_CG 2254.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2254,train
+raw/color/Tomato___Tomato_mosaic_virus/67d62cc2-ac5e-4ad7-91a0-c097163df653___PSU_CG 2048.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2048,train
+raw/color/Tomato___Tomato_mosaic_virus/b1d9c785-6ef9-4e5b-bb01-f63fb1fce2d2___PSU_CG 2305.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2305,train
+raw/color/Tomato___Tomato_mosaic_virus/a7c7e844-1b1f-4aaf-aa23-abd2bce9f5fc___PSU_CG 2244.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2244,train
+raw/color/Tomato___Tomato_mosaic_virus/91247151-4bae-4d55-a35c-edb9318bdb09___PSU_CG 2139.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2139,train
+raw/color/Tomato___Tomato_mosaic_virus/79f7f0e7-f4c8-4cf4-9c5d-2c4c4675fc04___PSU_CG 2147.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2147,train
+raw/color/Tomato___Tomato_mosaic_virus/f7066d3e-694d-44a0-a42a-a8fb1eb52ff7___PSU_CG 2190.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2190,train
+raw/color/Tomato___Tomato_mosaic_virus/54355f0e-7332-4990-b96e-fbff2637f5b7___PSU_CG 2245.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2245,train
+raw/color/Tomato___Tomato_mosaic_virus/bf950cb4-985f-4174-b32b-9ae2d6e99a84___PSU_CG 2320.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2320,train
+raw/color/Tomato___Tomato_mosaic_virus/d987e4ec-b96a-411e-b132-daf7d8e8707d___PSU_CG 2114.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2114,train
+raw/color/Tomato___Tomato_mosaic_virus/a5bc7391-adbd-4d94-89b0-e3aeb7ba81b9___PSU_CG 2368.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2368,train
+raw/color/Tomato___Tomato_mosaic_virus/696758e5-0f10-4599-b596-e9e7566c4791___PSU_CG 2062.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2062,train
+raw/color/Tomato___Tomato_mosaic_virus/9a3a36e0-b0eb-4844-84f5-db08e2d9adef___PSU_CG 2300.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2300,train
+raw/color/Tomato___Tomato_mosaic_virus/ee1d7f40-d80c-4cac-9cd3-1a687431496e___PSU_CG 2282.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2282,train
+raw/color/Tomato___Tomato_mosaic_virus/382828a4-dbdf-4ddc-a75b-9a6fcc4b600e___PSU_CG 2054.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2054,train
+raw/color/Tomato___Tomato_mosaic_virus/27000177-5a1d-4539-b78d-07a6f9a38089___PSU_CG 2168.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2168,train
+raw/color/Tomato___Tomato_mosaic_virus/e8c8a6a2-f3e4-4b4d-986b-76031a36abf4___PSU_CG 2371.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2371,train
+raw/color/Tomato___Tomato_mosaic_virus/6f341314-6084-4784-a3ba-0a9bdc944366___PSU_CG 2372.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2372,train
+raw/color/Tomato___Tomato_mosaic_virus/0fcf9c2a-5c8c-4f37-aa43-6fd41d5e5442___PSU_CG 2055.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2055,train
+raw/color/Tomato___Tomato_mosaic_virus/7ddb3878-8899-42bd-8ec1-5ee012f30cf2___PSU_CG 2188.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2188,train
+raw/color/Tomato___Tomato_mosaic_virus/4571a1c4-3a67-4437-a5bf-8bc1a2af22e4___PSU_CG 2360.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2360,train
+raw/color/Tomato___Tomato_mosaic_virus/55117128-4dcf-4b3a-bde6-9f42a18d4b24___PSU_CG 2377.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2377,train
+raw/color/Tomato___Tomato_mosaic_virus/0d9accf3-1285-4356-b69b-2ae132c5f145___PSU_CG 2337.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2337,train
+raw/color/Tomato___Tomato_mosaic_virus/3117475d-3948-45a5-b2c7-630efb8bfab8___PSU_CG 2333.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2333,train
+raw/color/Tomato___Tomato_mosaic_virus/67ccd0d2-9b55-48a7-b093-a616d9c57845___PSU_CG 2307.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2307,train
+raw/color/Tomato___Tomato_mosaic_virus/0b5e2269-7b37-43ac-9a96-c62b9bba2383___PSU_CG 2243.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2243,train
+raw/color/Tomato___Tomato_mosaic_virus/3d028390-f367-423b-b0f7-a44e2cac2393___PSU_CG 2205.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2205,train
+raw/color/Tomato___Tomato_mosaic_virus/6c468dae-d392-4435-8d2f-adcadf0425b8___PSU_CG 2276.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2276,train
+raw/color/Tomato___Tomato_mosaic_virus/78c968a3-8083-4924-b351-3f36569cf33a___PSU_CG 2214.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2214,train
+raw/color/Tomato___Tomato_mosaic_virus/8bfa3082-1cd3-4520-b8cc-2fae871dbc55___PSU_CG 2239.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2239,train
+raw/color/Tomato___Tomato_mosaic_virus/3790abe5-03cb-4d5c-bfaa-9dcbc64debb2___PSU_CG 2402.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2402,train
+raw/color/Tomato___Tomato_mosaic_virus/6a2c0438-3207-4998-893a-02ddb3a26081___PSU_CG 2294.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2294,train
+raw/color/Tomato___Tomato_mosaic_virus/99a4b1cb-e55a-4954-a7c5-ebb0cc57ed2a___PSU_CG 2096.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2096,train
+raw/color/Tomato___Tomato_mosaic_virus/a3bfb1c8-d60a-4894-adf8-297035279f47___PSU_CG 2306.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2306,train
+raw/color/Tomato___Tomato_mosaic_virus/75c566a5-8c20-4294-8138-4f06a3c2df7c___PSU_CG 2158.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2158,train
+raw/color/Tomato___Tomato_mosaic_virus/d5632be7-268d-4781-8986-b71a6449be9c___PSU_CG 2413.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2413,train
+raw/color/Tomato___Tomato_mosaic_virus/2fa22081-5533-4b18-9a8f-671f210db37e___PSU_CG 2092.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2092,train
+raw/color/Tomato___Tomato_mosaic_virus/7dd798aa-f748-4ac3-9f6d-d4ced4a27403___PSU_CG 2374.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2374,train
+raw/color/Tomato___Tomato_mosaic_virus/73c3945a-ec2b-4e6e-ad9d-0ad6193d7136___PSU_CG 2375.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2375,train
+raw/color/Tomato___Tomato_mosaic_virus/271772e3-6aeb-4d46-9233-ad877d12971f___PSU_CG 2317.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2317,train
+raw/color/Tomato___Tomato_mosaic_virus/fb79c897-ed92-43c4-8b28-8bdbe951ff56___PSU_CG 2396.JPG,Tomato___Tomato_mosaic_virus,4,Tomato___Tomato_mosaic_virus::fallback_PSU_CG 2396,train
